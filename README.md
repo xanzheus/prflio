@@ -1,16 +1,13 @@
 ﻿### Hi there 👋
 
-I'm [Reiyuura](https://hazaku-rei.pages.dev)
-- 🔭 Desain web terinspirasi dari [Moe Poi Senpai](https://github.com/moepoi)
+I'm [Reiyuura](https://reiyuura.me)
 
 
 :page_with_curl: I'm currently learning:
-- Html
-- CSS
-- JavaScript
-- PHP
+- Just learning what i want :)
+
 
 Contact me
 <br><br>
-[<img src="https://img.shields.io/badge/Telegram-%40Reiyuura-blue">](https://t.me/FReiyuura)
-[<img src="https://img.shields.io/badge/Email-Reiyuura-orange">](mailto:yuiireichi@gmail.com)
+[<img src="https://img.shields.io/badge/Telegram-%40Reiyuura-blue">](https://t.me/reiyuurach)
+[<img src="https://img.shields.io/badge/Email-Reiyuura-orange">](mailto:me.reiyura@gmail.com)
